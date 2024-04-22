@@ -1,4 +1,14 @@
-#### Autor: ...
+# Recruitment-Python-2024
 
-- `example_currency_rates.json` - lokalne źródło danych z kursami walut
-- `database.json` - baza danych z zapisanymi kursami walut
+# How to clone project
+`$ git clone https://github.com/JakubKosakowski/recruitment-python-2024.git`
+
+# How to run application
+
+```
+> pip install virtualenv
+> virtualenv env
+> env\Scripts\activate.bat
+$ pip install -r requirements.txt
+$ python __main__.py [dev/prod]
+```
