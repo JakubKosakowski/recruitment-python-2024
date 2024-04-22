@@ -1,0 +1,170 @@
+{
+    "1": {
+        "id": 1,
+        "currency": "eur",
+        "rate": 4.6285,
+        "price_in_pln": 21.1,
+        "date": "2010-01-01"
+    },
+    "2": {
+        "id": 2,
+        "currency": "eur",
+        "rate": 4.985,
+        "price_in_pln": 22.1,
+        "date": "2012-01-01"
+    },
+    "3": {
+        "id": 2,
+        "currency": "USD",
+        "rate": 4.0687,
+        "price_in_pln": 97.6488,
+        "date": "2024-04-16"
+    },
+    "4": {
+        "id": 4,
+        "currency": "USD",
+        "rate": 4.0687,
+        "price_in_pln": 48.8244,
+        "date": "2024-04-16"
+    },
+    "5": {
+        "id": 5,
+        "currency": "usd",
+        "rate": 4.0687,
+        "price_in_pln": 40.687,
+        "date": "2024-04-17"
+    },
+    "6": {
+        "id": 6,
+        "currency": "chf",
+        "rate": 4.4554,
+        "price_in_pln": 55.6925,
+        "date": "2024-04-17"
+    },
+    "7": {
+        "id": 7,
+        "currency": "usd",
+        "rate": 4.0687,
+        "price_in_pln": 81.374,
+        "date": "2024-04-17"
+    },
+    "8": {
+        "id": 8,
+        "currency": "eur",
+        "rate": 4.25,
+        "price_in_pln": 106.25,
+        "date": "2024-04-17"
+    },
+    "9": {
+        "id": 9,
+        "currency": "eur",
+        "rate": 4.25,
+        "price_in_pln": 51.0,
+        "date": "2024-04-17"
+    },
+    "10": {
+        "id": 10,
+        "currency": "usd",
+        "rate": 4.0687,
+        "price_in_pln": 81.374,
+        "date": "2024-04-17"
+    },
+    "11": {
+        "id": 11,
+        "currency": "usd",
+        "rate": 4.0688,
+        "price_in_pln": 40.688,
+        "date": "2024-04-21"
+    },
+    "12": {
+        "id": 12,
+        "currency": "chf",
+        "rate": 4.4787,
+        "price_in_pln": 143.32,
+        "date": "2024-04-21"
+    },
+    "13": {
+        "id": 13,
+        "currency": "eur",
+        "rate": 4.3316,
+        "price_in_pln": 8.66,
+        "date": "2024-04-21"
+    },
+    "14": {
+        "id": 14,
+        "currency": "nzd",
+        "rate": 2.3968,
+        "price_in_pln": 23.97,
+        "date": "2024-04-21"
+    },
+    "15": {
+        "id": 15,
+        "currency": "usd",
+        "rate": 4.0688,
+        "price_in_pln": 40.69,
+        "date": "2024-04-21"
+    },
+    "16": {
+        "id": 16,
+        "currency": "usd",
+        "rate": 4.0688,
+        "price_in_pln": 101.72,
+        "date": "2024-04-21"
+    },
+    "17": {
+        "id": 17,
+        "currency": "usd",
+        "rate": 4.054,
+        "price_in_pln": 405.40000000000003,
+        "date": "2024-04-22"
+    },
+    "18": {
+        "id": 18,
+        "currency": "nzd",
+        "rate": 2.3945,
+        "price_in_pln": 23.95,
+        "date": "2024-04-22"
+    },
+    "19": {
+        "id": 19,
+        "currency": "cad",
+        "rate": 2.9529,
+        "price_in_pln": 29.53,
+        "date": "2024-04-22"
+    },
+    "20": {
+        "id": 20,
+        "currency": "eur",
+        "rate": 4.213,
+        "price_in_pln": 42.13,
+        "date": "2024-04-22"
+    },
+    "21": {
+        "id": 21,
+        "currency": "eur",
+        "rate": 4.213,
+        "price_in_pln": 42.13,
+        "date": "2024-04-22"
+    },
+    "22": {
+        "id": 22,
+        "currency": "eur",
+        "rate": 4.213,
+        "price_in_pln": 42.13,
+        "date": "2024-04-22"
+    },
+    "23": {
+        "id": 23,
+        "currency": "eur",
+        "rate": 4.213,
+        "price_in_pln": 42.13,
+        "date": "2024-04-22"
+    },
+    "24": {
+        "id": 24,
+        "currency": "eur",
+        "rate": 4.25,
+        "price_in_pln": 42.5,
+        "date": "2024-04-22"
+    }
+}
